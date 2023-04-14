@@ -1,8 +1,8 @@
-# 💫 About Me:
-- 👋 Hi, I’m @paras-saxena11<br>- 👀 I’m interested in Software Development and Full Stack development...<br>- 🌱 I’m currently data structures and algorithms ...<br>- 💞️ I’m looking to collaborate on the projects related to full stack dev and data structures...<br>- 📫 How to reach me mail me on paras.saxena11@gmail.com
+# About Me:
+- 👋 Hi, I’m @paras-saxena11<br>-  I’m interested in Software Development and Full Stack development...<br>-  I’m currently data structures and algorithms ...<br>-  I’m looking to collaborate on the projects related to full stack dev and data structures...<br>-  How to reach me mail me on paras.saxena11@gmail.com
 
 
-## 🌐 Socials:
+## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paras_saxena77) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/paras-saxena-1b7984202/) 
 
 # 💻 Tech Stack:
