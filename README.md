@@ -1,5 +1,5 @@
 # About Me:
-- 👋 Hi, I’m @paras-saxena11<br>-  I’m interested in Software Development and Full Stack development...<br>-  I’m currently data structures and algorithms ...<br>-  I’m looking to collaborate on the projects related to full stack dev and data structures...<br>-  How to reach me mail me on paras.saxena11@gmail.com
+- 👋 Hi, I’m @paras-saxena11<br>-  I’m interested in Software Development and Full Stack development...<br>-  I’m proficient in data structures and algorithms ...<br>-  I’m looking to collaborate on the projects related to full stack dev and data structures...<br>-  How to reach me mail me on paras.saxena11@gmail.com
 
 
 ## Socials:
